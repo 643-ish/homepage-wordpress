@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="a" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 24.9 28.4">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #000;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path id="Icon_metro-file-empty" data-name="Icon metro-file-empty" class="cls-1" d="M23.5,6.5c-.7-1-1.5-1.9-2.4-2.7-.8-.9-1.8-1.7-2.7-2.4-.7-.6-1.6-1-2.5-1.2H2.4C1.2.2.2,1.2.2,2.4v23.6c0,1.2,1,2.2,2.2,2.2h20.1c1.2,0,2.2-1,2.2-2.2h0V9c-.1-.9-.5-1.8-1.2-2.5h0ZM19.9,5c.7.7,1.4,1.4,2,2.2h-4.2V3c.8.6,1.5,1.3,2.2,2ZM22.9,26c0,.2-.2.4-.4.4H2.4c-.2,0-.4-.2-.4-.4V2.4c0-.2.2-.4.4-.4h13.5v6.1c0,.5.4.9.9.9h6.1v17Z"/>
+</svg>
